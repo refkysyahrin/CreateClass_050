@@ -12,7 +12,7 @@ class PersegiPanjang:
     def __str__(self):
         return f"Persegi panjang, panjang {self.panjang} cm, dan lebar {self.lebar} cm"
     
-def main():    
+def main():     
     try:
         panjang = int(input("Masukkan panjang persegi panjang (cm): "))
         lebar = int(input("Masukkan lebar persegi panjang (cm): "))
