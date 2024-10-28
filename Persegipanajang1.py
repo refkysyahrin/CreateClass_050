@@ -27,6 +27,5 @@ def main():
     except ValueError:
         print("Input harus berupa angka. Silakan coba lagi.")
 
-# Memanggil fungsi main
-if __name__ == "__main__":
-    main()
+      
+main()
